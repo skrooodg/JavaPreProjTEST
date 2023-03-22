@@ -1,0 +1,2 @@
+# JavaPreProjTEST
+Задание 1.
